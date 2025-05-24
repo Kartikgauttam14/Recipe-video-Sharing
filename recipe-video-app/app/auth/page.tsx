@@ -52,7 +52,7 @@ export default function AuthPage() {
                 clipRule="evenodd"
               />
             </svg>
-            <span>Generate AI-powered recipe suggestions</span>
+            <span>Generate AI-powered Recipe Suggestions</span>
           </li>
           <li className="flex items-center gap-2">
             <svg
